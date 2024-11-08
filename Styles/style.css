@@ -1,3 +1,9 @@
+
+body{
+    width: 1320px;
+    margin: 0 auto;
+}
+
 /* Hero section */
 
 .section{
@@ -77,3 +83,27 @@
     padding-left: 30px;
 }
 
+/* Main section */
+
+.time{
+    background-color:cornsilk;
+    text-align: center;
+    height: 482px;
+    width: 1320px;
+    margin: 0px auto;
+}
+.time>div{
+    margin: 0px;
+    padding: 0px;
+    padding-top: 120px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.time button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
