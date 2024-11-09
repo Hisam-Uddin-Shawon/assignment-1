@@ -125,7 +125,7 @@ body main{
 .offer-des h4{
     color: red;
     font-size: 23px;
-    font-weight: 500;
+    font-weight: 600;
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
@@ -212,7 +212,8 @@ body main{
 #product h4{
     color: red;
     font-size: 23px;
-    font-weight: 500;
+    font-weight: 600;
+    margin: 0px;
 }
 #product h2{
     font-size: 45px;
@@ -277,6 +278,7 @@ footer{
     color: white;
     margin: 0px;
     padding: 0px;
+    margin-top: 120px;
 }
 .foot-1{
     display: flex;
