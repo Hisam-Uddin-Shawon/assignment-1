@@ -1,5 +1,8 @@
-
 body{
+    margin: 0px;
+    padding: 0px;
+}
+body main{
     width: 1320px;
     margin: 0 auto;
 }
@@ -265,4 +268,51 @@ body{
         color: white;
         font-size: 16px;
         cursor: pointer;
+}
+
+/* Footer */
+footer{
+    background-color: black;
+    height: 609px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.foot-1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.foot-11{
+    margin-left: 100px;
+    line-height: 35px;
+    margin-top: 100px;
+}
+.foot-12{
+    margin-right: 200px;
+    line-height: 35px;
+    margin-top: 100px;
+}
+
+.foot-2{
+    justify-items: center;
+    margin-top: 50px;
+}
+.icon-cont img{
+    margin-right: 10px;
+}
+
+.foot-3{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.foot-31{
+    margin-top: 80px;
+    margin-left: 100px;
+    line-height: 35px;
+}
+.foot-32{
+    margin-top: 80px;
+    margin-right: 200px;
 }
